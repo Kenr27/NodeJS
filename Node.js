@@ -8,7 +8,7 @@ const examDetails = "P2";
 // Routes
 
 app.get('/', (req, res) => {
-  res.send('Hi Ken Martinez Welcome to my Node.js server!'); // Or any other message you want to display
+  res.send('Hi This is Ken Martinez, Welcome to my Node.js server!'); // Or any other message you want to display
 });
 
 app.get('/subject', (req, res) => {
